@@ -4,7 +4,7 @@ $CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":
 
 /**
  * VS Programmers | vssonusaini464@gmail.com
- * https://tinyfilemanager.github.io
+ * https://github.com/vssonusaini/FileManager
  */
 
 //TFM version
